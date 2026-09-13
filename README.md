@@ -17,7 +17,7 @@ Software developer based in Surabaya, Indonesia 🇮🇩. Focused on high-perfor
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,bun,elysia,astro,nextjs,tailwind,postgres,redis,docker,linux,git,gitlab&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,bun,elysia,svelte,astro,nextjs,tailwind,postgres,redis,docker,linux,git,gitlab&theme=dark" alt="Tech Stack" />
 </p>
 
 <p align="left">
