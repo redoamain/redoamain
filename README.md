@@ -1,6 +1,6 @@
 # Redho Arifin
 
-Software developer based in Surabaya, Indonesia 🇮🇩. Focused on backend engineering, Linux server administration, and building reliable web applications.
+Software developer based in Surabaya, Indonesia 🇮🇩. Focused on high-performance backend systems with Bun & TypeScript, Linux infrastructure, and modern web applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redho-arifin-983372196/)
 [![Email](https://img.shields.io/badge/Email-redho.arn%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:redho.arn@gmail.com)
@@ -9,14 +9,14 @@ Software developer based in Surabaya, Indonesia 🇮🇩. Focused on backend eng
 
 ---
 
-- ⚙️ **Stack:** PHP (Laravel), TypeScript (Bun / Node), PostgreSQL, Docker, Linux
-- 🔭 **Current Focus:** Backend architecture, server deployment, and web platforms
+- ⚙️ **Stack:** TypeScript, Bun, Elysia.js, Hono, Astro, PostgreSQL, Docker, Linux
+- 🔭 **Current Focus:** High-performance APIs, containerized environments, and fast modern web apps
 - 💬 **Get in touch:** [redho.arn@gmail.com](mailto:redho.arn@gmail.com) or [LinkedIn](https://www.linkedin.com/in/redho-arifin-983372196/)
 
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,ts,bun,postgres,docker,linux,nginx,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,bun,elysia,hono,astro,nextjs,tailwind,postgres,redis,docker,linux,git&theme=dark" alt="Tech Stack" />
 </p>
 
 <p align="left">
